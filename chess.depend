@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1384976583 source:d:\c++\chess\main.cpp
+	<iostream>
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_rotozoom.h"
+	<string>
+	<conio.h>
+	<fstream>
+	<vector>
+
+1366370258 d:\c++\chess\sdl_rotozoom.h
+	<math.h>
+	"SDL/SDL.h"
+
